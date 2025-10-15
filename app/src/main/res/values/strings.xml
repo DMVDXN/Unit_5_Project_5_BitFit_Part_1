@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BitFit</string>
+    <string name="water_cups">Water Cups</string>
+    <string name="note">Note</string>
+    <string name="save">Save</string>
+    <string name="add_entry">Add Entry</string>
+</resources>
